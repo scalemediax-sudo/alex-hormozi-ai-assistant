@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+data/index.jsonl
+data/*.tmp
+
+output/
+tmp/
+animated-photoshoot-demo/
+animated-photoshoot-site/
+
+.DS_Store
+Thumbs.db
